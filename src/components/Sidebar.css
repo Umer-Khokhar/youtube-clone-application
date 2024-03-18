@@ -1,0 +1,19 @@
+.category-btn {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: .3rem 1rem;
+    margin-bottom: .3rem;
+    gap: 1rem;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all .2s ease-in-out !important;
+}
+
+.category-btn:hover {
+    background-color: #f01111 !important;
+    color: white !important;
+    border-radius: 30px !important;
+
+}
